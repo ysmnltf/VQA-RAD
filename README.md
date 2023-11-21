@@ -19,5 +19,5 @@ This repository contains my solutions for the Visual Question Answering on Radio
    - Fusion of text and image features using the MFB (Multi-modal Feature Block) architecture.
 
 ### Notebooks
-- `VQA_RAD_Closed_Ended_Model.ipynb`: Jupyter Notebook for the closed-ended question model.
-- `VQA_RAD_Open_Ended_Model.ipynb`: Jupyter Notebook for the open-ended question model.
+- `VQA_RAD_Closed_Ended_Model.ipynb`: Jupyter Notebook for the classification model trained on closed-ended questions.
+- `VQA_RAD_Open_Ended_Model.ipynb`: Jupyter Notebook for the sequence-to-sequence model trained on open-ended questions.
